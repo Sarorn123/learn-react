@@ -1,0 +1,32 @@
+{
+  "name": "react-typescript-ant-design",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.8.0",
+    "antd": "^5.0.5",
+    "hls.js": "^1.4.3",
+    "jotai": "^2.0.0",
+    "jotai-devtools": "^0.2.0",
+    "plyr": "^3.7.8",
+    "plyr-react": "^5.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hls-player": "^3.0.7",
+    "react-player": "^2.12.0",
+    "react-router-dom": "^6.8.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@vitejs/plugin-react": "^2.2.0",
+    "typescript": "^4.6.4",
+    "vite": "^3.2.3"
+  }
+}
